@@ -1,0 +1,6 @@
+Planning API
+1. / - this is working
+2. /signin - post == sucess / fail
+3. /register - post = user 
+4. /profile/:userID - get = user
+5./imageUpdate - put = user
